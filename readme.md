@@ -1,6 +1,7 @@
 # Star Citizen String Translation Merger Tool
 > [!IMPORTANT]
 > This is not my tool! All credit goes to, MrKraken. I'm mearly updating it for myself and anyone who cares. Please direct help requests to the original authur.
+> 
 > GNU/Linux Chads. Using you favorite text editor. Please ensure your final merged.ini (global.ini) is set appropriately with DOS/Window EOL, BOM, and UTF-8 formatting. I've tested it on both Winblows and GNU/Linux with no issues.
 ##
 
