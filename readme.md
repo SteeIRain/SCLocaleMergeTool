@@ -2,7 +2,7 @@
 > [!IMPORTANT]
 > This is not my tool! All credit goes to, ExoAE, MrKraken, and BeltaKoda. I'm merely updating it for myself and anyone who cares.
 > 
-> I'm using BeltaKoda's [ScCompLangPackRemix](https://github.com/BeltaKoda/ScCompLangPackRemix) as the global.ini source. I've also included [ExoAE's ScCompLangPack](https://github.com/ExoAE/ScCompLangPack) global.ini in a seperate folder as an alternative. If you prefer their extended component naming instead.
+> I'm using BeltaKoda's [ScCompLangPackRemix](https://github.com/BeltaKoda/ScCompLangPackRemix) as the global.ini source. I've also included [ExoAE's ScCompLangPack](https://github.com/ExoAE/ScCompLangPack) global.ini in a seperate folder as an alternative. If you prefer their extended component naming instead. If you have issues with your Star Citizen install directory being detected or don't need it to be. Use the alt .ps1 script.
 > 
 > GNU/Linux Chads. Using you favorite text editor. Please ensure your final merged.ini (global.ini) is set appropriately with DOS/Windows EOL, BOM, and UTF-8 formatting. I've tested it on both Winblows and GNU/Linux with no issues.
 ##
