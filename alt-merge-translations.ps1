@@ -1,4 +1,4 @@
-##################
+﻿##################
 # String processing file - Originally from /u/Asphalt_Expert's component stats language pack_ https://github.com/ExoAE/ScCompLangPack/blob/main/merge-process/merge-ini.ps1
 # Given a bit of piss and vinegar by MrKraken (https://www.youtube.com/@MrKraken)
 # Merges translations from target_strings.ini into global.ini and saves as merged.ini in the same directory as well as the defined global.ini game path
