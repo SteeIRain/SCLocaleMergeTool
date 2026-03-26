@@ -13,7 +13,7 @@
 > [!WARNING]
 > Although I have created a tool to eliminate manual process. If you are uneasy in running it, or unrestricting PowerShell, you can still manually adjust your localization file by just searching for the strings `CTRL`+`F` or simply running a find & replace with `CTRL`+`H`
 
-### 🗒️ Current String Base: `sc-early-access-4.6.0`
+### 🗒️ Current String Base: `sc-early-access-4.7.0`
 
 ## 📝 What it Does
 - Takes `target_strings.ini` as the input file & `global.ini` as source file from Data.p4k
