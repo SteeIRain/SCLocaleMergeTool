@@ -1,8 +1,8 @@
 # Star Citizen String Translation Merger Tool
 > [!IMPORTANT]
-> This is not my tool! All credit goes to, ExoAE, MrKraken, and BeltaKoda. I'm merely updating it for myself and anyone who cares.
+> This is not my tool! This is a lazy fork by me. Credit goes to, BeltaKoda, MrKraken, and ExoAE. I'm merely updating this for myself and anyone who cares.
 > 
-> I'm using BeltaKoda's [ScCompLangPackRemix](https://github.com/BeltaKoda/ScCompLangPackRemix) as the global.ini source. I've also included [ExoAE's ScCompLangPack](https://github.com/ExoAE/ScCompLangPack) global.ini in a seperate folder as an alternative. If you prefer their extended component naming instead. If you have issues with your Star Citizen install directory being detected or don't need it to be. Use the alt .ps1 script.
+> I'm using BeltaKoda's [ScCompLangPackRemix](https://github.com/BeltaKoda/ScCompLangPackRemix) as the primary global.ini source with MrKraken's [StarStrings](https://github.com/MrKraken/StarStrings) mixed-in. If you have issues with your Star Citizen install directory being detected or don't need it to be. Use the alt .ps1 script.
 > 
 > GNU/Linux Chads. Using you favorite text editor. Please ensure your final merged.ini (global.ini) is set appropriately with DOS/Windows EOL, BOM, and UTF-8 formatting. I've tested it on both Winblows and GNU/Linux with no issues.
 ##
@@ -13,7 +13,7 @@
 > [!WARNING]
 > Although I have created a tool to eliminate manual process. If you are uneasy in running it, or unrestricting PowerShell, you can still manually adjust your localization file by just searching for the strings `CTRL`+`F` or simply running a find & replace with `CTRL`+`H`
 
-### 🗒️ Current String Base: `sc-early-access-4.7.0`
+### 🗒️ Current String Base: `sc-early-access-4.7.1`
 
 ## 📝 What it Does
 - Takes `target_strings.ini` as the input file & `global.ini` as source file from Data.p4k
