@@ -1,8 +1,8 @@
 # Star Citizen String Translation Merger Tool
 > [!IMPORTANT]
-> This is not my tool! This is a lazy fork by me. Credit goes to, BeltaKoda, MrKraken, and ExoAE. I'm merely updating this for myself and anyone who cares.
+> This is not my tool! This is a lazy fork by me. Credit goes to ExoAE, MrKraken, and UnitedDanes. I'm updating this for myself and anyone who cares.
 > 
-> I'm using BeltaKoda's [ScCompLangPackRemix](https://github.com/BeltaKoda/ScCompLangPackRemix) as the primary global.ini source with MrKraken's [StarStrings](https://github.com/MrKraken/StarStrings) mixed-in. If you have issues with your Star Citizen install directory being detected or don't need it to be. Use the alt .ps1 script.
+> I'm using a custom preset of my own from [uniteddanes](https://uniteddanes.org/tools/lokalisering/) as the primary global.ini source. This comes with MrKraken's [StarStrings](https://github.com/MrKraken/StarStrings) mixed-in. If you have issues with your Star Citizen install directory being detected or don't need it to be. Use the alt .ps1 script.
 > 
 > GNU/Linux Chads. Using you favorite text editor. Please ensure your final merged.ini (global.ini) is set appropriately with DOS/Windows EOL, BOM, and UTF-8 formatting. I've tested it on both Winblows and GNU/Linux with no issues.
 ##
