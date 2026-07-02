@@ -5,6 +5,11 @@
 > I'm using a custom preset of my own from [uniteddanes](https://uniteddanes.org/tools/lokalisering/) as the primary global.ini source. This comes with MrKraken's [StarStrings](https://github.com/MrKraken/StarStrings) mixed-in. If you have issues with your Star Citizen install directory being detected or don't need it to be. Use the alt .ps1 script.
 > 
 > GNU/Linux Chads. Using you favorite text editor. Please ensure your final merged.ini (global.ini) is set appropriately with DOS/Windows EOL, BOM, and UTF-8 formatting. I've tested it on both Winblows and GNU/Linux with no issues.
+>
+> Minor differences from other packs are as follows. I manually merge all incoming text to spot check (rapidly) egregious/awkward errors by CIG or others. I usually correct a few each update.
+> - Component format ex. M2A S - FR76
+> - Drugs are marked uniquely
+> - Multi-Tool attachments are named more intuitively but immersion friendly
 ##
 
 > [!NOTE]
