@@ -1,6 +1,6 @@
-# Star Citizen String Translation Merger Tool
+﻿# Star Citizen Custom Global and String Merger Tool
 > [!IMPORTANT]
-> This is not my tool! This is a lazy fork by me. Credit goes to ExoAE, MrKraken, and UnitedDanes. I'm updating this for myself and anyone who cares.
+> This is a lazy fork by me. Credit goes to ExoAE, MrKraken, and UnitedDanes. I'm updating this for myself and anyone who cares.
 > 
 > I'm using a custom preset of my own from [uniteddanes](https://uniteddanes.org/tools/lokalisering/) as the primary global.ini source. This comes with MrKraken's [StarStrings](https://github.com/MrKraken/StarStrings) mixed-in. If you have issues with your Star Citizen install directory being detected or don't need it to be. Use the alt .ps1 script.
 > 
@@ -10,15 +10,21 @@
 > - Component format ex. M2A S - FR76
 > - Drugs are marked uniquely
 > - Multi-Tool attachments are named more intuitively but immersion friendly
+> - Politically correct changes will be rejected/reverted arbitrarily when caught
+>
+> I'm also maintaining a small directory of 'non-sensitive' files that have been unp4ked from the game. Of significant note are the graphics settings values. To my knowledge no one else does this and CIG has never been forthcoming. How hard is to add tool-tips CIG? You can actually see the real engine values and the difference between options ex. low/medium/high etc. I'll continue to add to this as I see fit. My intention is to only highlight things of use to the community to allow informed decisions where knowledge gaps exist and not post sensitive game content. 
 ##
 
+
+
+# Original Instructions
 > [!NOTE]
-> Originally based on [ExoAE's ScCompLangPack](https://github.com/ExoAE/ScCompLangPack) idea but rather than another fork, I decided instead to tweak the merge tool to make it more usable. target_strings.ini is provided for example of organising your ASOP
+> Originally based on [ExoAE's ScCompLangPack](https://github.com/ExoAE/ScCompLangPack) idea but rather than another fork, I decided instead to tweak the merge tool to make it more usable. target_strings.ini is provided for example of organizing your ASOP
 
 > [!WARNING]
 > Although I have created a tool to eliminate manual process. If you are uneasy in running it, or unrestricting PowerShell, you can still manually adjust your localization file by just searching for the strings `CTRL`+`F` or simply running a find & replace with `CTRL`+`H`
 
-### 🗒️ Current String Base: `sc-early-access-4.8.3 - 12122953`
+### 🗒️ Current String Base: `sc-early-access - 4.9.0-12232306`
 
 ## 📝 What it Does
 - Takes `target_strings.ini` as the input file & `global.ini` as source file from Data.p4k
@@ -56,7 +62,7 @@ StarCitizen/
 ## 🤔 Is this... legit?
 > [!IMPORTANT]
 > **Made by the Community** - This is an unofficial Star Citizen fan project, not affiliated with the Cloud Imperium group of companies. All content in this repository not authored by its host or users are property of their respective owners.
-- The ability to customise your localisation using the extracted global.ini file is intended/authorised by CIG to support community made translations until it is officially integrated
+- The ability to customize your localization using the extracted global.ini file is intended/authorized by CIG to support community made translations until it is officially integrated
     - *[Star Citizen: Community Localization Update](https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/star-citizen-community-localization-update) 2023-10-11*
 - Considered as third-party contributions, use at your own discretion
 - [RSI Terms of Service](https://robertsspaceindustries.com/en/tos)
