@@ -9,10 +9,10 @@
 > Minor differences from other packs are as follows. I manually merge all incoming text to spot check (rapidly) egregious/awkward errors by CIG or others. I usually correct a few each update.
 > - Component format ex. M2A S - FR76
 > - Drugs are marked uniquely
-> - Multi-Tool attachments are named more intuitively but immersion friendly
+> - Multi-Tool attachments are named more intuitively but immersion friendly. For ex. instead of "Cutter, Mining, Healing, and Salvage" it's "OxyTorch, LifeGuard, OreBit, and Cambio".
 > - Politically correct changes will be rejected/reverted arbitrarily when caught
 >
-> I'm also maintaining a small directory of 'non-sensitive' files that have been unp4ked from the game. Of significant note are the graphics settings values. To my knowledge no one else does this and CIG has never been forthcoming. How hard is to add tool-tips CIG? You can actually see the real engine values and the difference between options ex. low/medium/high etc. I'll continue to add to this as I see fit. My intention is to only highlight things of use to the community to allow informed decisions where knowledge gaps exist and not post sensitive game content. 
+> I'm also maintaining a small directory of 'non-sensitive' files that have been unp4ked from the game. Of significant note are the graphics settings values. To my knowledge no one else does this and CIG has never been forthcoming. How hard is to add tool-tips, CIG? You can actually see the real engine values and the difference between options ex. low/medium/high etc. I'll continue to add to this as I see fit. My intention is to only highlight things of use to the community to allow informed decisions where knowledge gaps exist and not post sensitive game content. 
 ##
 
 
